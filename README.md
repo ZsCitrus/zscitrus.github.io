@@ -1,4 +1,4 @@
-## Technical writing practice
+## Technical Writing Practice
 ---
 ### Purpose
 
